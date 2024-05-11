@@ -19,7 +19,4 @@ If you want to test 21 hand's keypoints detection, please set ```whole_hand_dete
 
 <img src="./images/result_two_hands_all.gif" style="zoom:50%;" />
 
-If you want to test wrist's, index finger's and thumb's tip keypoints, please set ```whole_hand_detect = False```
-
-<img src="./images/result_two_hands.gif" style="zoom:50%;" />
 
